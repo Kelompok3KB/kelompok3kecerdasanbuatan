@@ -27,7 +27,7 @@ Kelompok 3
 - F55120006 Ahmad Mustamin
 - F55120045 Nur Iman Sari
 - F55120076 Faiz Abdul Gani
-- F55129968 Muhammad Fadhi
+- F55129968 Muhammad Fadhil
 
 
 # Cara Menggunakan
