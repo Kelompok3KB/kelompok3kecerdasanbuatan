@@ -11,6 +11,7 @@ member kelompok 3
 9. Aulia Izzatul Azmi_F55120108
 10. Isma_F55120056
 11. Nur iman sari F55120045
+12. Faiz Abdul Gani F55120076
 
 Kelompok 3
 - F55120093 Anugrah Aidin Yotolembah
@@ -24,6 +25,7 @@ Kelompok 3
 - F55120056 Isma
 - F55120006 Ahmad Mustamin
 - F55120045 Nur Iman Sari
+- F55120076
 
 
 # Cara Menggunakan
